@@ -1,0 +1,34 @@
+
+h1{ 
+    font-family:Verdana;
+    text-align: center;
+    color: black;
+    background-color:rgb(230, 230, 148);
+    width: 1920px;
+    height: 45px;
+}
+h4{
+    text-align: center;
+    width: 400px;
+    font-family: "Pacifico";
+    height: 150px;
+}
+.lar {
+    font-family: "Pacifico";
+    font-weight: 400;
+}
+h3{
+    font-family:Verdana;
+    text-align: left;
+    color: black;
+}  
+.xD{
+    width: 100px;
+    height: 400px;
+}
+body{
+    background-color:tan;
+}
+img{
+    margin: 0 auto;
+}
